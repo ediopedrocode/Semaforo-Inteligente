@@ -27,3 +27,17 @@ Página *web* atrelada ao protótipo por intermédio de conexão Wireless. Opera
 **2) Controla** o estado de ambos os semáforos das vias, no que diz respeito ao estado de alerta, quando todos os sinais amarelos piscam, bem como a dar preferência de tráfego a pedestres.
 
 ![enter image description here](https://github.com/ediopedrocode/Semaforo-Inteligente/blob/master/Imagens/WhatsApp%20Image%202020-01-25%20at%2010.53.39.jpeg?raw=true)
+
+## Contatos:
+
+### Édio Pedro: 
+edio.pedro@academico.ifpb.edu.br
+(83) 98856-4102 
+
+### Fabrício Leitão:
+leitao.fabricio@academico.ifpb.edu.br
+(83) 98715-3651
+
+### Gabriel Diniz:
+diniz.gabriel@academico.ifpb.edu.br
+(83) 98774-4677
