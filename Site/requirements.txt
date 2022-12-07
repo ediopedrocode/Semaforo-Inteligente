@@ -1,4 +1,4 @@
-certifi==2017.11.5
+certifi==2022.12.7
 click==6.7
 dnspython==1.16.0
 eventlet==0.24.1
